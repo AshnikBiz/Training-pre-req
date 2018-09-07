@@ -1,9 +1,9 @@
 ## Training Environment an Platform
 The training is delivered using Linux environment.  It will involve some Linux commands during hands on sessions.  We will be helping those who are not familiar with Linux commands but a basic understanding of Linux is helpful.
 
-Requirements for Training (applies to participants and trainers system):
+# Requirements for Training
 
-Machine/Harware Requirement:
+## Machine/Harware Requirement
 
 - 2 Core 4 GB RAM System
 - Min 30 GB of free HDD space
@@ -32,4 +32,4 @@ The training facility should offer Wireless internet access for the trainees. Th
 ## Other Equipments
 1. A projector so that the trainer can share the screen with participants
 2. A white board and color pens to write and describe certain topics in detail
-3. Internet connection - LAN port near the trainer's desk or WiFi for Trainer's personal laptop and for machine used by all trainees
+3. Internet connection - LAN port (and LAN wire) near the trainer's desk or WiFi for Trainer's personal laptop
